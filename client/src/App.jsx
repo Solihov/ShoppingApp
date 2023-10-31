@@ -1,7 +1,8 @@
+import "./style/global.scss"
 const App = () => {
   return (
     <>
-      App
+      <h1>App</h1>
     </>
   )
 }
