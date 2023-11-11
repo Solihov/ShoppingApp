@@ -16,3 +16,14 @@
 
     // }
 }
+.yellow {
+    background-color: var(--yellow);
+    color: black;
+}
+.styled {
+    background-color: transparent;
+    border: 2px solid var(--yellow);
+    color: var(--yellow);
+    font-weight: 700;
+    font-size: 17px;
+}
